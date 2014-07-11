@@ -1,4 +1,4 @@
 simplestAmdLoader
 =================
 
-A very simple and clear amd loader for the web.
+A very simple and clean amd loader for the web.
